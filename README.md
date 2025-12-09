@@ -5,15 +5,15 @@ I'm a **Dotnet developer** with a permanent **Linux tryst** on the side. My prof
 
 
 
-### 🐧 Linux & System Configuration
-**NixOS enthusiast** – Embracing declarative system configuration and reproducible builds  
-Nixos for main system
+### ❄️ NixOS enthusiast  
+cultist of
+[dendritic](https://github.com/vic/dendrix) & [hjem](https://github.com/feel-co/hjem)
 
 ### 🦀 Rust Disciple
 Learning and building with Rust    
 Fighting the borrow checker
 
-### Wayland & Linux Interfaces
+### 💻 Wayland & Linux Interfaces
 Tinkering with **Wayland compositors**
 Exploring modern Linux desktop interfaces and window management systems  
 Fascinated by the evolution of the Linux desktop
