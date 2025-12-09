@@ -1,16 +1,26 @@
-## Hi there 👋
+# About
+I'm a **Dotnet developer** with a permanent **Linux tryst** on the side. My professional work centers around the .NET ecosystem, but my heart belongs to the penguin.
 
-<!--
-**argosnothing/argosnothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🐧 Linux & System Configuration
+**NixOS enthusiast** – Embracing declarative system configuration and reproducible builds  
+Nixos for main system
+
+### 🦀 Rust Disciple
+Devoted to learning and building with Rust  
+Appreciating memory safety, fearless concurrency, and zero-cost abstractions
+
+### Wayland & Linux Interfaces
+Deeply interested in **Wayland compositors** and the future of display servers on Linux  
+Exploring modern Linux desktop interfaces and window management systems  
+Fascinated by the evolution of the Linux desktop experience  
+
+
+---
+
+*Building with .NET by day, tinkering with Linux by night* 🌙
+
+</div>
