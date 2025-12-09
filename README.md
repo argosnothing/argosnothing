@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there 👋
 
 ## About Me
@@ -28,3 +30,5 @@ Interests: Wayland, Desktop Environments, System Configuration
 ---
 
 *Building with .NET by day, tinkering with Linux by night* 🌙
+
+</div>
