@@ -10,13 +10,13 @@ I'm a **Dotnet developer** with a permanent **Linux tryst** on the side. My prof
 Nixos for main system
 
 ### 🦀 Rust Disciple
-Devoted to learning and building with Rust  
-Appreciating memory safety, fearless concurrency, and zero-cost abstractions
+Learning and building with Rust    
+Fighting the borrow checker
 
 ### Wayland & Linux Interfaces
-Deeply interested in **Wayland compositors** and the future of display servers on Linux  
+Tinkering with **Wayland compositors**
 Exploring modern Linux desktop interfaces and window management systems  
-Fascinated by the evolution of the Linux desktop experience  
+Fascinated by the evolution of the Linux desktop
 
 
 ---
