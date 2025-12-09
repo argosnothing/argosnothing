@@ -1,5 +1,5 @@
 # About
-I'm a **Dotnet developer** with a permanent **Linux tryst** on the side. My professional work centers around the .NET ecosystem, but my heart belongs to the penguin.
+I'm a **Dotnet developer** with a permanent Linux tryst on the side. My professional work centers around the .NET ecosystem, but my heart belongs to the penguin.
 
 <div align="center">
 
